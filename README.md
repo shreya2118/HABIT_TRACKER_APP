@@ -34,4 +34,4 @@ The Habit Tracker App is a Python-based application built using Tkinter and ttkb
 _Python_– Core programming language\
 _Tkinter & ttkbootstrap_ – GUI framework for modern UI\
 _SQLite_ – Lightweight database for persistent storage\
-_Matplotlib _– Data visualization for habit streak trends
+_Matplotlib_– Data visualization for habit streak trends
